@@ -5,6 +5,8 @@
   padding-top: $spacer;
   min-height: $spacer * 15;
   background: $theme-color-main;
+  background: url(../images/background.gif) center top;
+  background-attachment: fixed;
   color: darken($theme-color-main, 50%);
 
   // Element: container-contacts-phone
