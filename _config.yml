@@ -1,7 +1,7 @@
 # Site settings
 # in the templates available like {{ site.myvariable }}.
-title: Павел Гузенко - персональный сайт художника
-email: your-email@domain.com
+title: персональный сайт художника
+email: pavelguzenko@yandex.ru
 brand: Павел Гузенко
 headline: Художник, Дизайнер
 description: > # this means to ignore newlines until "baseurl:"
@@ -14,7 +14,7 @@ copyright: 2016 Pavel Guzenko, Inc. All Rights Reserved.
 markdown: kramdown
 
 # Account ids
-snapwidget: 247552
+snapwidget: 251993
 
 # Contacts
 email: pavelguzenko@yandex.ru
